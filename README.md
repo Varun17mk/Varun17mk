@@ -28,6 +28,6 @@
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/varunmk17)
+- 💼 [LinkedIn](/varunmk17)
 - ✉️ Email: kulkarnivarun10@gmail.com
 
