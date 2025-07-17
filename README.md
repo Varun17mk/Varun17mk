@@ -16,23 +16,18 @@
 
 ### 📂 Featured Projects
 
-#### 🔹 [Web UI Automation Framework – Selenium + TestNG](https://github.com/your-username/selenium-testng-framework)
+#### 🔹 [Web UI Automation Framework – Selenium + TestNG]
 > A modular and maintainable framework built using POM, TestNG, and Maven. Includes test reports and reusable utilities.
 
-#### 🔹 [REST API Automation with RestAssured](https://github.com/your-username/restassured-api-testing)
+#### 🔹 [REST API Automation with RestAssured]
 > API test suite using Java + RestAssured for validating endpoints with schema validation, serialization & deserialization.
 
-#### 🔹 [Postman Collection – Petstore API](https://github.com/your-username/postman-petstore-api)
+#### 🔹 [Postman Collection – Petstore API]
 > Organized Postman collections and scripts for testing the Swagger Petstore API with environment variables and chaining.
 
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ Email: your.email@example.com
-- 🌐 Portfolio (optional): [yourwebsite.dev](https://yourwebsite.dev)
+- 💼 [LinkedIn](www.linkedin.com/in/varunmk17)
+- ✉️ Email: kulkarnivarun10@gmail.com
 
----
-
-### 📈 GitHub Stats (Optional)
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
