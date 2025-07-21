@@ -19,7 +19,7 @@
 ### 🔹 [Web UI Automation Framework – Selenium + TestNG]
 > A modular and maintainable framework built using POM, TestNG, and Maven. Includes test reports and reusable utilities.
 
-### 🔹 [REST API Automation with RestAssured]
+### 🔹 [REST API Automation with RestAssured] - https://github.com/Varun17mk/API-Automation-using-Rest-Assured.git
 > API test suite using Java + RestAssured for validating endpoints with schema validation, serialization & deserialization.
 
 ### 🔹 [Postman Collection – Petstore API]
