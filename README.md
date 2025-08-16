@@ -16,7 +16,7 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [Web UI Automation Framework – Selenium + TestNG] - https://github.com/Varun17mk/JavaAutomationFrameWorkDesign
+### 🔹 [Web UI Automation Framework – Selenium + TestNG] - https://github.com/Varun17mk/HybridAutomationFrameWorkDesign
 > A modular and maintainable framework built using POM, TestNG, and Maven. Includes test reports and reusable utilities.
 
 ### 🔹 [REST API Automation with RestAssured] - https://github.com/Varun17mk/API-Automation-using-Rest-Assured.git
