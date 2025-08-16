@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Varun!
 
-## 🎯 QA Automation Engineer | 2.8+ Years of Experience  
+## 🎯 QA Automation Engineer | 3+ Years of Experience  
 ### 🔍 Passionate about building reliable, scalable, and maintainable test automation frameworks for Web and API testing.
 
 ---
